@@ -28,7 +28,7 @@
 9. 云原生与Kubernetes支持：提供ArangoDB Operator，简化K8s上的集群部署与管理。支持备份/恢复、弹性伸缩和监控集成（Prometheus指标暴露），适合云原生架构。
 10. 开源与企业版：社区版（Apache 2.0许可证）包含核心功能，企业版提供加密存储、LDAP认证、审计日志等高级特性，以及图形化集群管理工具（ArangoGraph）。
 
-本项目提供的开源镜像商品 [**`Arangodb-多模型数据库`**]()，已预先安装 Arangodb 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**`Arangodb-多模型数据库`**](https://marketplace.huaweicloud.com/hidden/contents/7d872a9d-47fa-4b47-9509-440d7700f1f8#productid=OFFI1166672361089519616)，已预先安装 Arangodb 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 **架构设计：**
 
