@@ -2,7 +2,7 @@
 
 # 商品链接
 
-[Arangodb-多模型数据库]()
+[Arangodb-多模型数据库](https://marketplace.huaweicloud.com/hidden/contents/7d872a9d-47fa-4b47-9509-440d7700f1f8#productid=OFFI1166672361089519616)
 
 # 商品说明
 

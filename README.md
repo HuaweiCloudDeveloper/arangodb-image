@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Arangodb-多模型数据库]()
+- 镜像商品：[Arangodb-多模型数据库](https://marketplace.huaweicloud.com/hidden/contents/7d872a9d-47fa-4b47-9509-440d7700f1f8#productid=OFFI1166672361089519616)
 - 镜像规格：Arangodb3.12.5-2-kunpeng-v1.0
 - 预置环境：Arangodb3.12.5-2
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
